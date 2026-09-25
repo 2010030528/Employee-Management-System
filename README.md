@@ -29,31 +29,31 @@ A secure, role-based Employee Management System with OTP-based password recovery
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](Employee-Management-System/images/Login.png)
+![Login](images/login.png)
 
 ### 🛠 Admin Dashboard
-![Admin Dashboard](Employee-Management-System/images/admin-dashboard.png)
+![Admin Dashboard](images/admin-dashboard.png)
 
 ### 👥 Manage Users
-![Users](Employee-Management-System/images/manage-users.png)
+![Users](images/manage-users.png)
 
 ### 🏢 Manage Departments
-![Departments](Employee-Management-System/images/manage-departments.png)
+![Departments](images/manage-departments.png)
 
 ### 👨‍💻 Manage Employees
-![Employees](Employee-Management-System/images/manage-employees.png)
+![Employees](images/manage-employees.png)
 
 ### 👤 Employee Dashboard
-![Employee](Employee-Management-System/images/employee-dashboard.png)
+![Employee](images/employee-dashboard.png)
 
 ### 🙍 Profile Page
-![Profile](Employee-Management-System/images/profile.png)
+![Profile](images/profile.png)
 
 ### 🔑 Forgot Password
-![Forgot](Employee-Management-System/images/forgot-password.png)
+![Forgot](images/forgot-password.png)
 
 ### 🔐 OTP Verification
-![OTP](Employee-Management-System/images/verify-otp.png)
+![OTP](images/verify-otp.png)
 
 ---
 
